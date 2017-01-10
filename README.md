@@ -11,6 +11,18 @@ Summary: Python function signatures from PEP362 for Python 2.6, 2.7 and 3.2+.
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/funcsigs-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/funcsigs-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/funcsigs-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/funcsigs-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/funcsigs-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/funcsigs-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/funcsigs/badges/version.svg)](https://anaconda.org/conda-forge/funcsigs)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/funcsigs/badges/downloads.svg)](https://anaconda.org/conda-forge/funcsigs)
+
 Installing funcsigs
 ===================
 
@@ -31,7 +43,6 @@ It is possible to list all of the versions of `funcsigs` available on your platf
 ```
 conda search funcsigs --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -67,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/funcsigs-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/funcsigs-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/funcsigs-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/funcsigs-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/funcsigs-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/funcsigs-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/funcsigs/badges/version.svg)](https://anaconda.org/conda-forge/funcsigs)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/funcsigs/badges/downloads.svg)](https://anaconda.org/conda-forge/funcsigs)
 
 
 Updating funcsigs-feedstock

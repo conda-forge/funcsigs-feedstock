@@ -31,6 +31,7 @@ test:
 about:
   home: http://funcsigs.readthedocs.org
   license: Apache 2.0
+  license_file: LICENSE
   summary: Python function signatures from PEP362 for Python 2.6, 2.7 and 3.2+.
 
 extra:
